@@ -50,6 +50,21 @@ if (themeid == "catppuccinFrappe") {
 if (themeid == "catppuccinLatte") {
   themeEle.href = "/assets/styles/themes/catppuccin/latte.css?v=1"
 }
+if (themeid == "blue") {
+  themeEle.href = "/assets/styles/themes/blue.css?v=1"
+}
+if (themeid == "green") {
+  themeEle.href = "/assets/styles/themes/green.css?v=1"
+}
+if (themeid == "red") {
+  themeEle.href = "/assets/styles/themes/red.css?v=1"
+}
+if (themeid == "purple") {
+  themeEle.href = "/assets/styles/themes/purple.css?v=1"
+}
+if (themeid == "orange") {
+  themeEle.href = "/assets/styles/themes/orange.css?v=1"
+}
 document.body.appendChild(themeEle)
 // Tab Cloaker
 document.addEventListener("DOMContentLoaded", function (event) {
