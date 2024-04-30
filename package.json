@@ -18,7 +18,7 @@
     "express": "^4.19.2",
     "express-basic-auth": "^1.2.1",
     "jquery": "^3.7.1",
-    "vercel": "^32.3.0"
+    "vercel": "^34.1.4"
   },
   "devDependencies": {
     "prettier": "3.2.5"
